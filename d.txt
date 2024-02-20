@@ -1,0 +1,11 @@
+ Volume in drive A is DEV
+ Volume Serial Number is E60B-C9F2
+
+ Directory of A:\aiNetlify
+
+02/20/2024  12:56 PM    <DIR>          .
+02/20/2024  12:56 PM                 0 d.txt
+02/20/2024  12:56 PM             1,085 LICENSE
+02/20/2024  12:56 PM                22 README.md
+               3 File(s)          1,107 bytes
+               1 Dir(s)  11,931,430,912 bytes free
